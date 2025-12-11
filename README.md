@@ -43,8 +43,8 @@ A hands-on repository used to learn Git version control.
 ## 🚀 Let’s Connect
 
 📫 **Reach me at:**  
-✉️ Email: *Add your email here*  
-🌐 LinkedIn: *Add your LinkedIn profile link*
+✉️ Email: lakkshhmia@gmail.com  
+
 
 ---
 
